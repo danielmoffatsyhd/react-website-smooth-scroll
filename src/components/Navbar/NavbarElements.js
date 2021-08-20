@@ -23,7 +23,7 @@ z-index: 10;
 export const NavbarContainer = styled.div`
 display: flex;
 justify-content: space-between;
-height: 80px;
+height: 150px;
 z-index: 1;
 width: 100%;
 padding: 0 24px; 
@@ -42,6 +42,7 @@ margin-left: 24px;
 font-weight: bold;
 text-decoration: none;
 `
+
 export const MobileIcon = styled.div`
     display: none;
 

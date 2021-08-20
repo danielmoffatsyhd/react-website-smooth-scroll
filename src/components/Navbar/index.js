@@ -17,7 +17,7 @@ const Navbar = () => {
         <>
             <Nav>
                 <NavbarContainer>
-                    <NavLogo to='/'>Aviation</NavLogo>
+                    <NavLogo to='/'> Aviation </NavLogo>
                         <MobileIcon>
                             <FaBars />
                         </MobileIcon>
